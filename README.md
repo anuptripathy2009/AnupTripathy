@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AnupTripathy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey there, I'm Anup Tripathy! 👋
 
-<!---
-AnupTripathy/AnupTripathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile repository! This repository serves as a central hub for showcasing my projects, contributions, and skills as a developer.
+## 🔭 Current Focus
+
+I'm currently focusing on the following areas:
+
+- Improving my skills in Python and Java.
+- Exploring web development with HTML, CSS, and JavaScript.
+
+
+
